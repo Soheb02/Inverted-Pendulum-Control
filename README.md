@@ -1,7 +1,7 @@
 # Inverted-Pendulum-Control
 Version Control for Inverted Pendulum Controller Project (MEC830)
 
-# **Inverted Pendulum Stabilization Project**
+# Inverted Pendulum Stabilization Project
 This repository contains the code and design files for an inverted pendulum stabilization project, completed as part of a systems design course. The objective is to stabilize a pendulum mounted on a cart using sensors and motor control, implementing closed-loop feedback to maintain balance.
 
 # Project Overview
